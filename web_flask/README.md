@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0x04. AirBnB clone - Web framework
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
@@ -40,3 +41,6 @@ No cross browsers
 More Info
 Install Flask
 $ pip3 install Flask
+=======
+# 0x04. AirBnB clone - Web framework
+>>>>>>> b4e82a75107055d9a1804b22cb9c1dcf1963a471
